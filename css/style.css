@@ -1135,7 +1135,7 @@ ul.link_menu li a:hover {
 @media only screen and (max-width: 420px){
      .logodoxtir{
           width: 40%;
-          height: 10vh;
+          height: 8vh;
      }
 }
 
@@ -1143,6 +1143,6 @@ ul.link_menu li a:hover {
 @media only screen and (max-width: 600px){
      .logodoxtir{
           width: 40%;
-          height: 10vh;
+          height: 5vh;
      }
 }
